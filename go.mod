@@ -1,3 +1,3 @@
-module github.com/chand1012/yt_transcript
+module github.com/chaitushiva/yt_transcript
 
 go 1.20
